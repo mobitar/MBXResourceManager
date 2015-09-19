@@ -7,7 +7,7 @@
 
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
-#import "CLMResource.h"
+#import "MBXResource.h"
 
 @interface MBXResourceRequest : NSObject
 
